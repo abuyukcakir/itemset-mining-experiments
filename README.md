@@ -9,3 +9,4 @@ To-do list:
   * MNIST
   * Email Spam detection (Enron maybe?)
   
+http://research.nii.ac.jp/~uno/codes.htm 
